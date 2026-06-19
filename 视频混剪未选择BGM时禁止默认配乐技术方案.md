@@ -202,3 +202,4 @@ BUILD SUCCESS
 
 后端通过 `backgroundMusicArray` 判断用户是否真实选择 BGM，避免仅因音量字段存在就生成阿里云背景音乐配置，从而解决“未选择 BGM 但成片出现默认背景音乐”的问题。
 
+修改一下
